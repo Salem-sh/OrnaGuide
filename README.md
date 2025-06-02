@@ -1,5 +1,5 @@
-# OrnaGuide
 # 🌿 OrnaGuide – AI-Powered Ornamental Plant Care App
+
 
 ## 📌 Overview
 **OrnaGuide** is a smart mobile application that leverages AI and computer vision to identify ornamental plants and provide users with personalized care instructions. The app is designed to support plant enthusiasts in managing the health and appearance of their plants.
