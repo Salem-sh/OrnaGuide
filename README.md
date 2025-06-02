@@ -31,17 +31,16 @@ The app uses a **Convolutional Neural Network (CNN)** to classify plant species,
 3. Run the app on Android Studio or VS Code using Flutter
 
 ## 📸 Screenshots
-<img src="https://github.com/user-attachments/assets/998847c4-6a7a-4ee6-b7e5-82218dffecfb" width="300"/>
+<img src="https://github.com/user-attachments/assets/3b52e518-9e9b-4ee7-862a-8312c221324c" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/3d83fca2-4c4e-4dd7-8781-30dd7e0397d9" width="300"/>
+<img src="https://github.com/user-attachments/assets/2dfb8c62-525f-4043-8c6b-e79c16924c02" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/f9a1409a-ca1c-4da9-b3f7-d7e33d017953" width="300"/>
+<img src="https://github.com/user-attachments/assets/60b99189-ba78-4fb1-943d-303ec8640317" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/4494d596-4331-41f5-8080-15497d2a7bbb" width="300"/>
+<img src="https://github.com/user-attachments/assets/719a7dc5-7672-4d68-8c72-de4482264bc9" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/dd134954-be85-4519-9090-370bee3f7440" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/801c1148-6d42-4733-8ac8-576a9914e22f" width="300"/>
+
 
 
 ## 📃 License
