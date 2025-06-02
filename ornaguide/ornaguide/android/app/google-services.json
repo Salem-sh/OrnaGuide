@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345674345771",
+    "project_id": "ornaguide-30e6c",
+    "storage_bucket": "ornaguide-30e6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345674345771:android:b10de3188080f741d0696e",
+        "android_client_info": {
+          "package_name": "com.example.ornaguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltvVnmEzpQufvxGpfgyKjNNJPOOtelec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
